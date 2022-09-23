@@ -1,0 +1,48 @@
+{
+    "description": "项目配置文件。",
+    "setting": {
+        "urlCheck": false,
+        "coverView": true,
+        "es6": true,
+        "postcss": true,
+        "compileHotReLoad": true,
+        "lazyloadPlaceholderEnable": false,
+        "preloadBackgroundData": false,
+        "minified": true,
+        "autoAudits": false,
+        "uglifyFileName": false,
+        "uploadWithSourceMap": true,
+        "enhance": true,
+        "useMultiFrameRuntime": true,
+        "showShadowRootInWxmlPanel": true,
+        "packNpmManually": false,
+        "packNpmRelationList": [],
+        "minifyWXSS": true,
+        "useStaticServer": true,
+        "showES6CompileOption": false,
+        "checkInvalidKey": true,
+        "babelSetting": {
+            "ignore": [],
+            "disablePlugins": [],
+            "outputPath": ""
+        },
+        "disableUseStrict": false,
+        "useCompilerPlugins": false,
+        "minifyWXML": true
+    },
+    "compileType": "miniprogram",
+    "libVersion": "2.25.3",
+    "appid": "wx84c7ff8f1f67f54e",
+    "projectname": "%e6%b5%b7%e9%a3%8e%e5%b0%8f%e5%ba%97",
+    "simulatorType": "wechat",
+    "simulatorPluginLibVersion": {},
+    "condition": {},
+    "packOptions": {
+        "ignore": [],
+        "include": []
+    },
+    "editorSetting": {
+        "tabIndent": "insertSpaces",
+        "tabSize": 4
+    }
+}

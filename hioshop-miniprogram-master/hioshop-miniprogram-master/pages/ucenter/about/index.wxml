@@ -1,0 +1,16 @@
+<view class="container">
+    <view class='about-wrap'>
+        <view class='title'>Youco商城</view>
+        <view class='content'>
+            大家都在用的小程序商城
+        </view>
+        <view class="line"></view>
+        <view class="content">开发者：xiao~tian~</view>
+        <view class="content">微信：付费添加</view>
+        <view class="line"></view>
+        <view class='content'>
+           更多搜索https://gitee.com/Heng_XIang
+        </view>
+    </view>
+    <!-- <ad unit-id="adunit-1776b4f8f2217197" ad-type="video" ad-theme="white"></ad> -->
+</view>
